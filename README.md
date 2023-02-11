@@ -1,17 +1,15 @@
+Hi there 👋 I'm Veronica/家绮 from Suzhou, China.
+<br> 
+- 📚 I'm currently a master student from Duke University, The Fuqua School of Business
+- 🎯 I will be graduating in May 2023, looking for *Data Analyst, Business Analyst and Data Scientist roles* which can combine my analytical skills and business background
+- 🏙 I'm an alumni of New York University Shanghai, graduated at 2022 before I first came to the states
+- 🔭 I’m currently working on / learning skills relevant to A/B Testing, and open to study partners
+- 💬 I'm not an expert in cooking, but I can share my lists for best restaurants in Durham/NYC/DC... and to be continued!
+- 📫 How to reach me: [LinkedIn](Linkedin.com/in/jiaqi-veronica-hu) | [Email](veronica.hu@duke.edu)
 
-
-<!--
-### Hi there 👋
-**veronica-hu/veronica-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!---
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+--->
