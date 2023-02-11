@@ -1,7 +1,7 @@
 Hi there 👋 I'm Veronica/家绮 from Suzhou, China.
 <br> 
 - 📚 I'm currently a master student from Duke University, The Fuqua School of Business
-- 🎯 I will be graduating in May 2023, looking for *Data Analyst, Business Analyst and Data Scientist roles* which can combine my analytical skills and business background
+- 🎯 I will be graduating in May 2023, looking for data/analytics roles which can combine my analytical skills and business background
 - 🏙 I'm an alumni of New York University Shanghai, graduated at 2022 before I first came to the states
 - 🔭 I’m currently working on / learning skills relevant to A/B Testing, and open to study partners
 - 💬 I'm not an expert in cooking, but I can share my lists for best restaurants in Durham/NYC/DC... and to be continued!
