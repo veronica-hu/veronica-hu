@@ -1,4 +1,4 @@
-Hi there 👋 I'm Veronica/家绮 from Suzhou, China.
+Hi there 👋 I'm Veronica/家绮 from Suzhou, China:
 <br> 
 - 📚 I'm currently a master student from Duke University, The Fuqua School of Business
 - 🎯 I'll be graduating in May 2023, looking for data/analytics roles which can combine my analytical skills and business background
